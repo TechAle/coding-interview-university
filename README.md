@@ -29,6 +29,7 @@
 - [Bahasa Indonesia](translations/README-id.md)
 - [ខ្មែរ - Khmer](translations/README-kh.md)
 - [Uzbek](translations/README-uz.md)
+- [Bulgarian](translations/README-bg.md)
 
 </details>
 
@@ -47,6 +48,7 @@
 - [Thai](https://github.com/jwasham/coding-interview-university/issues/156)
 - [Greek](https://github.com/jwasham/coding-interview-university/issues/166)
 - [Malayalam](https://github.com/jwasham/coding-interview-university/issues/239)
+- [Italian](https://github.com/jwasham/coding-interview-university/issues/1030)
 
 </details>
 
@@ -58,22 +60,6 @@
     <p>
         <strong>Special thanks to:</strong>
     </p>
-    <p>
-        <a href="https://simplify.jobs/?utm_source=github&utm_medium=coding-interview-university">
-            <div>
-                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/simplify-logo.png" width="400"  alt="Simplify">
-            </div>
-            <div>
-                <p>
-                    <strong>Applying to jobs? Autofill all your applications in 1-click.</strong>
-                </p>
-            </div>
-            <div>
-                <sup>Stop manually re-entering your information. Simplify’s extension helps you autofill jobs &amp; internship applications on millions of sites.</sup>
-            </div>
-        </a>
-    </p>
-    <br />
     <p>
         <a href="https://oss.capital/">
             <div>
@@ -1031,14 +1017,10 @@ Graphs can be used to represent many problems in computer science, so this secti
         - [ ] iterator
         - [ ] composite
         - [ ] flyweight
-    - [ ] [Chapter 6 (Part 1) - Patterns (video)](https://youtu.be/LAP2A80Ajrg?list=PLJ9pm_Rc9HesnkwKlal_buSIHA-jTZMpO&t=3344)
-    - [ ] [Chapter 6 (Part 2) - Abstraction-Occurrence, General Hierarchy, Player-Role, Singleton, Observer, Delegation (video)](https://www.youtube.com/watch?v=U8-PGsjvZc4&index=12&list=PLJ9pm_Rc9HesnkwKlal_buSIHA-jTZMpO)
-    - [ ] [Chapter 6 (Part 3) - Adapter, Facade, Immutable, Read-Only Interface, Proxy (video)](https://www.youtube.com/watch?v=7sduBHuex4c&index=13&list=PLJ9pm_Rc9HesnkwKlal_buSIHA-jTZMpO)
     - [ ] [Series of videos (27 videos)](https://www.youtube.com/playlist?list=PLF206E906175C7E07)
-    - [ ] [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Freeman/dp/0596007124)
+    - [ ] [Book: Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Freeman/dp/0596007124)
         - I know the canonical book is "Design Patterns: Elements of Reusable Object-Oriented Software", but Head First is great for beginners to OO.
-    - [ ] [Handy reference: 101 Design Patterns & Tips for Developers](https://sourcemaking.com/design-patterns-and-tips)
-    - [ ] [Design patterns for humans](https://github.com/kamranahmedse/design-patterns-for-humans#structural-design-patterns)
+    - [Handy reference: 101 Design Patterns & Tips for Developers](https://sourcemaking.com/design-patterns-and-tips)
 
 - ### Combinatorics (n choose k) & Probability
     - [ ] [Math Skills: How to find Factorial, Permutation and Combination (Choose) (video)](https://www.youtube.com/watch?v=8RRo6Ti9d0U)
@@ -1229,9 +1211,6 @@ Graphs can be used to represent many problems in computer science, so this secti
 
 ## Find a Job
 
-- [Simplify](https://simplify.jobs/?utm_source=github&utm_medium=coding-interview-university&utm_campaign=find_jobs)
-    - Simplify is a platform that offers curated lists of jobs like *Software Roles at Unicorns* and *SWE Roles at Big Tech Companies*. They also offer a
-     free browser extension that helps you autofill job applications on millions of sites.
 - [Sites for Finding Jobs](https://ayedot.com/151/MiniBlog/Top-10-Best-Websites-for-Careers--Jobs)
 
 ## Interview Process & General Interview Prep
@@ -1260,7 +1239,7 @@ Graphs can be used to represent many problems in computer science, so this secti
         - Many times, it’s not your technical competency that holds you back from landing your dream job, it’s how you perform on the behavioral interview.
 
 Mock Interviews:
-- [Gainlo.co: Mock interviewers from big companies](http://www.gainlo.co/) - I used this and it helped me relax for the phone screen and on-site interview
+- [Gainlo.co: Mock interviewers from big companies](http://www.gainlo.co/#!/) - I used this and it helped me relax for the phone screen and on-site interview
 - [Pramp: Mock interviews from/with peers](https://www.pramp.com/) - peer-to-peer model of practice interviews
 - [interviewing.io: Practice mock interview with senior engineers](https://interviewing.io) - anonymous algorithmic/systems design interviews with senior engineers from FAANG anonymously
 
@@ -1703,7 +1682,7 @@ You're never really done.
         - [Aduni - Algorithms - Lecture 4 (link jumps to starting point) (video)](https://youtu.be/1W3x0f_RmUo?list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&t=3871)
         - [Aduni - Algorithms - Lecture 5 (video)](https://www.youtube.com/watch?v=hm2GHwyKF1o&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&index=5)
         - [Red-Black Tree](https://en.wikipedia.org/wiki/Red%E2%80%93black_tree)
-        - [An Introduction To Binary Search And Red Black Tree](https://www.topcoder.com/community/competitive-programming/tutorials/an-introduction-to-binary-search-and-red-black-trees/)
+        - [An Introduction To Binary Search And Red Black Tree](https://www.topcoder.com/thrive/articles/An%20Introduction%20to%20Binary%20Search%20and%20Red-Black%20Trees)
 
     - **2-3 search trees**
         - In practice:
