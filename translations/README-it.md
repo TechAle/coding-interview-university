@@ -403,3 +403,63 @@ Scegline uno:
 Questa lista è cresciuta in più mesi e si, è cresciuta fuori controllo
 
 Questi sono alcuni errori che ho commesso, così potrai avere un'esperienza migliore. E salvare mesi della tua vita.
+
+### 1. Non ricorderai tutto!
+
+Ho guardato ore di video e preso tanti appunti, e mesi dopo mi sono ricordato poco. Ho speso 3 giorni leggere
+i miei appunti e farmi flash-cards affinchè li potessi revisionare. Non mi serviva tutta quella conoscenza.
+
+Perfavore, leggi così non farai lo stesso errore:
+
+[Retaining Computer Science Knowledge](https://startupnextdoor.com/retaining-computer-science-knowledge/).
+
+### 2. Usa Flashcards
+
+Per risolvere un problema, Ho creato un piccolo sito web di flashcards dove ho postato 2 tipologia di essi: generale e codice.
+Ognuna ha una formattazione diversa. Prima ho fatto una versione mobile, affinchè li potessi revisionare dal telefono o dal tablet, dove mi trovo ora.
+
+Crea il tuo gratis:
+
+- [Flashcards site repo](https://github.com/jwasham/computer-science-flash-cards)
+
+**NON CONSIGLIO usare le mie flashcards.** Ce ne sono troppe e troppe concentrate sulla curiosità che non ti serveranno.
+
+Però, se non mi volessi ascoltare, ecco:
+- [My flash cards database (1200 cards)](https://github.com/jwasham/computer-science-flash-cards/blob/main/cards-jwasham.db):
+- [My flash cards database (extreme - 1800 cards)](https://github.com/jwasham/computer-science-flash-cards/blob/main/cards-jwasham-extreme.db):
+
+Tieni in mente che io ho carte ovunque su qualunque argomento dall'assemply a curiosità su python fino al machine learning e statistica.
+Richiede più di quanto è veramente necessario.
+
+**Appunti sulle flashcards:** La prima volta che le capisci e capisci la risposta, non segnarla come nota. Devi vedere
+la stessa carta e rispondere bene diverse volte prima di considerare di saperla. La ripetizione renderà le vostre conoscenze
+in profondità nel nostro cervello.
+
+Un alternativa al mio sito di flashcard è [Anki](http://ankisrs.net/), ilchè mi è stato reccomandato parecchie volte.
+Usa un sistema di ripetizione che aiuta a memorizzare. E' facile da usare, disponibile su qualsiasi piattaforma e si auto sincronizza con altri tuoi dispositivi.
+Costa $25 su IOS però è disponibile su altre piattaforme.
+
+Il mio database di flashcards in anki: https://ankiweb.net/shared/info/25173560 (grazie [@xiewenya](https://github.com/xiewenya)).
+
+Alcuni studenti hanno fatto notare problemi di formattazione con spazi che potrebbero venire risolti facendo questo: apri un deck, modifica il deck, clicca le carte, seleziona "styling" nel bottone, aggiungi "white-space: pre;" alla card class.
+
+### 3. Fà domande di programmazione che fanno ai colloqui mentre stai imparando
+
+QUESTO E' MOLTO IMPORTANTE.
+
+Inizia a fare quiz mentre stai imparando strutte e algoritmi.
+
+Devi applicare ciò che stai imparando a risolvere problemi, oppure lo dimenticherai. Ho fatto questo errore.
+
+Una volta che hai risolto un problema e ti trovi a tuo agio con esso, tipo, **liste connesse**:
+1. Apri uno dei [dei libri di domande sulla programmazione](#interview-prep-books) (O website di problemi di natura di programmazione, scritto sotto)
+1. Fà 2 o 3 domande riguardante le liste connesse.
+1. Impara un nuovo argomento.
+1. Dopo, rifatti 2 o 3 domande sulle liste connesse.
+1. Fa questo per ogni argomento che impari.
+
+**Continua a risolvere problemi mentre impari, non dopo.**
+
+Non stai venendo preso per la tua conoscenza, ma come la sai applicare.
+
+Ci sono tante risorse per questo, elencate di seguito. Continuiamo.
