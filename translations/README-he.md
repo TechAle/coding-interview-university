@@ -26,22 +26,6 @@
         <strong>Special thanks to:</strong>
     </p>
     <p>
-        <a href="https://simplify.jobs/?utm_source=github&utm_medium=coding-interview-university">
-            <div>
-                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/simplify-logo.png" width="400"  alt="Simplify">
-            </div>
-            <div>
-                <p>
-                    <strong>Applying to jobs? Autofill all your applications in 1-click.</strong>
-                </p>
-            </div>
-            <div>
-                <sup>Stop manually re-entering your information. Simplify’s extension helps you autofill jobs &amp; internship applications on millions of sites.</sup>
-            </div>
-        </a>
-    </p>
-    <br />
-    <p>
         <a href="https://oss.capital/">
             <div>
                 <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/oss-capital.svg" width="350" alt="OSS Capital">
@@ -1438,7 +1422,7 @@ See [Book List above](#book-list)
 
 ראיונות דמה:
 - [Pramp - להתאמן בראיונות קידוד עם אחרים, בחינם](https://www.pramp.com/)
-- [Mock interviewers from big companies](http://www.gainlo.co/)
+- [Mock interviewers from big companies](http://www.gainlo.co/#!/)
 
 ## Once you're closer to the interview
 

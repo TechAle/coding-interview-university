@@ -30,6 +30,7 @@
 - [ខ្មែរ - Khmer](translations/README-kh.md)
 - [Uzbek](translations/README-uz.md)
 - [Bulgarian](translations/README-bg.md)
+- [বাংলা - Bangla](translations/README-bn.md)
 
 </details>
 
@@ -49,6 +50,7 @@
 - [Greek](https://github.com/jwasham/coding-interview-university/issues/166)
 - [Malayalam](https://github.com/jwasham/coding-interview-university/issues/239)
 - [Italian](https://github.com/jwasham/coding-interview-university/issues/1030)
+- [Persian - Farsi](https://github.com/jwasham/coding-interview-university/issues/186)
 
 </details>
 
@@ -714,6 +716,7 @@ if you can identify the runtime complexity of different algorithms. It's a super
     - [ ] [Binary Search (video)](https://www.youtube.com/watch?v=D5SrAga1pno)
     - [ ] [Binary Search (video)](https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search)
     - [ ] [detail](https://www.topcoder.com/community/competitive-programming/tutorials/binary-search/)
+    - [ ] [blueprint](https://leetcode.com/discuss/general-discussion/786126/python-powerful-ultimate-binary-search-template-solved-many-problems)
     - [ ] Implement:
         - binary search (on sorted array of integers)
         - binary search using recursion

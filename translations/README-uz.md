@@ -21,22 +21,6 @@ Asl versiyasi: [Inglizcha](../README.md)
         <strong>Special thanks to:</strong>
     </p>
     <p>
-        <a href="https://simplify.jobs/?utm_source=github&utm_medium=coding-interview-university">
-            <div>
-                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/simplify-logo.png" width="400"  alt="Simplify">
-            </div>
-            <div>
-                <p>
-                    <strong>Applying to jobs? Autofill all your applications in 1-click.</strong>
-                </p>
-            </div>
-            <div>
-                <sup>Stop manually re-entering your information. Simplify’s extension helps you autofill jobs &amp; internship applications on millions of sites.</sup>
-            </div>
-        </a>
-    </p>
-    <br />
-    <p>
         <a href="https://oss.capital/">
             <div>
                 <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/oss-capital.svg" width="350" alt="OSS Capital">
@@ -1352,7 +1336,7 @@ Mashqlar repolari
 - [Interactive Coding Interview Challenges in Python](https://github.com/donnemartin/interactive-coding-challenges)
 
 Mock intervyular
-- [Gainlo.co: Mock interviewers from big companies](http://www.gainlo.co/) - Men buni ishlatdim va u menga phone screen va on-site intervyularga ruhan tayyorladi
+- [Gainlo.co: Mock interviewers from big companies](http://www.gainlo.co/#!/) - Men buni ishlatdim va u menga phone screen va on-site intervyularga ruhan tayyorladi
 - [Pramp: Mock interviews from/with peers](https://www.pramp.com/) - foydalanuvchilararo intervyuga tayyorlanish modeli
 - [Refdash: Mock interviews and expedited interviews](https://refdash.com/) - kandidatlarga tech kompaniyalar bilan bo'ladigan bir nechta intervyulardan sakrab o'tishga ham yordam beradi
 - [interviewing.io: Practice mock interview with senior engineers](https://interviewing.io) - FAANG-dan senior injinerlar bilan anonim algoritm/tizim dizayn intervyulari
@@ -1698,7 +1682,7 @@ Hech qachon tugatgan bo'lmaymiz.
         - [Aduni - Algorithms - Lecture 4 (link videoni kerakli joyidan boshlaydi) (video)](https://youtu.be/1W3x0f_RmUo?list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&t=3871)
         - [Aduni - Algorithms - Lecture 5 (video)](https://www.youtube.com/watch?v=hm2GHwyKF1o&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&index=5)
         - [Red-Black Tree](https://en.wikipedia.org/wiki/Red%E2%80%93black_tree)
-        - [An Introduction To Binary Search And Red Black Tree](https://www.topcoder.com/community/competitive-programming/tutorials/an-introduction-to-binary-search-and-red-black-trees/)
+        - [An Introduction To Binary Search And Red Black Tree](https://www.topcoder.com/thrive/articles/An%20Introduction%20to%20Binary%20Search%20and%20Red-Black%20Trees)
 
     - **2-3 search tree-lar**
         - Amalda:
